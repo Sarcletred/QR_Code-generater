@@ -24,3 +24,6 @@ Set the main window's size and background color for a consistent look and feel.
 Main Loop:
 
 Run the tkinter main event loop to start the application.
+![Screenshot (101)](https://github.com/Sarcletred/QR_Code-generater/assets/135229520/38300156-f6ba-4d7d-843e-9f5986773cbc)
+![Screenshot (102)](https://github.com/Sarcletred/QR_Code-generater/assets/135229520/f70797ec-33ea-4d29-9ff0-f27cb6b1a317)
+
